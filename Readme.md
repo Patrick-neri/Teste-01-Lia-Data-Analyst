@@ -1,5 +1,7 @@
 # 📊 Teste 01: Data Analyst - Patrick Neri
 
+## Gist: <h4> https://gist.github.com/Patrick-neri/ab98e9d2fcac73fea03d3243eb0e4604 </h4>
+
 ## 🖋️ Narrativa:
 Dadas as 3 tabelas:
 
